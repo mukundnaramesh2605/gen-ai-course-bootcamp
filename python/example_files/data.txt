@@ -1,3 +1,2 @@
-Hi!!!
-Hello World...!!!
-This is an example file for file operations.
+This is a new line of text.
+This is another line of text.
