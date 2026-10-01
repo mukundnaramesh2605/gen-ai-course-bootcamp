@@ -1,1 +1,1 @@
-source genai/bin/activate
+source /Users/mukundanramesh/projects/project_venvs/genai/bin/activate
